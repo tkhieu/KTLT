@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I. Kỹ Thuật Nhập Dữ
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai01", "Bai01\Bai01.vcxproj", "{4EDB2109-D617-4269-8143-92DB5C992D5F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai02", "Bai02\Bai02.vcxproj", "{F1DFCB54-AA94-4494-ADA9-E9C5B09DEBA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -17,6 +19,10 @@ Global
 		{4EDB2109-D617-4269-8143-92DB5C992D5F}.Debug|Win32.Build.0 = Debug|Win32
 		{4EDB2109-D617-4269-8143-92DB5C992D5F}.Release|Win32.ActiveCfg = Release|Win32
 		{4EDB2109-D617-4269-8143-92DB5C992D5F}.Release|Win32.Build.0 = Release|Win32
+		{F1DFCB54-AA94-4494-ADA9-E9C5B09DEBA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1DFCB54-AA94-4494-ADA9-E9C5B09DEBA7}.Debug|Win32.Build.0 = Debug|Win32
+		{F1DFCB54-AA94-4494-ADA9-E9C5B09DEBA7}.Release|Win32.ActiveCfg = Release|Win32
+		{F1DFCB54-AA94-4494-ADA9-E9C5B09DEBA7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -24,5 +30,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{86534B1B-B1C6-4B02-AC0A-E0827D1F26DF} = {92676768-6762-464F-86DD-A9EEF1306D56}
 		{4EDB2109-D617-4269-8143-92DB5C992D5F} = {86534B1B-B1C6-4B02-AC0A-E0827D1F26DF}
+		{F1DFCB54-AA94-4494-ADA9-E9C5B09DEBA7} = {86534B1B-B1C6-4B02-AC0A-E0827D1F26DF}
 	EndGlobalSection
 EndGlobal

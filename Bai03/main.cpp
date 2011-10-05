@@ -27,7 +27,7 @@ void Input(int a[], int &n)
 				a[i] = temp;
 			else 
 			{
-				printf("So ban vua nhap be hon a[%d]\n",i-1);
+				printf("So ban vua nhap > a[%d]\n",i-1);
 				i--;
 			}
 		}else
